@@ -1,2 +1,2 @@
 My first readme
-Update from main
+Only update allowed through github.com from main
